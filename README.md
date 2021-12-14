@@ -8,10 +8,9 @@
 
 <p>
   😄 Welcome to my Github 😄
-  <br/><br/>
+  <br/>
   I'm currently studying back-end skills to become a competent develop performer. <br/>
-  Love to work with team, love to learn new skills and love to share my experience.
-  <br/><br/>
+  Love to work with team, love to learn new skills and love to share my experience. <br/>
   Always welcome on code review or any opinions 👋👋.   
   <br/><br/>
 </p>
