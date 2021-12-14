@@ -15,6 +15,8 @@
   <br/><br/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhaggang22&show_icons=true&theme=gruvbox)
+
 ### 💻 Skills
 #### Languages & Framework
 <p>
@@ -28,6 +30,8 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhaggang22&layout=compact)](https://github.com/hhaggang22/github-readme-stats) 
 
 #### Database
 <p>
@@ -54,5 +58,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhaggang22&show_icons=true&theme=gruvbox)
