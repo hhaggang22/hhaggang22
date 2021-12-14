@@ -1,4 +1,4 @@
-<a href="https://blog.naver.com/zhdlqkddnf" target="_blank"><img src="https://img.shields.io/badge/#E71D29-2DB400?style=flat-square&logo=로고&logoColor=2DB400"/></a>
+<a href="https://blog.naver.com/zhdlqkddnf" target="_blank"><img src="https://img.shields.io/badge/Blog-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
 <!--
