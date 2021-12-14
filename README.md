@@ -1,4 +1,5 @@
-### Hi there 👋
+<a href="https://blog.naver.com/zhdlqkddnf" target="_blank"><img src="https://img.shields.io/badge/#E71D29-2DB400?style=flat-square&logo=로고&logoColor=2DB400"/></a>
+
 
 <!--
 **hhaggang22/hhaggang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
