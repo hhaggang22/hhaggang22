@@ -13,7 +13,7 @@
   <br/><br/>
   Love to work with team, love to learn new skills and love to share my experience.
   <br/><br/>
-  Always welcome on code review or any opinions 👋.   
+  Always welcome on code review or any opinions 👋👋.   
   <br/><br/>
 </p>
 
