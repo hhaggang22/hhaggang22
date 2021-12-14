@@ -4,13 +4,12 @@
   <a href="https://www.linkedin.com/in/%ED%95%98%EA%B2%BD-%EA%B9%80-248236166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
  </p>
 
+## Backend Developer
+
 <p>
   😄 Welcome to my Github 😄
   <br/><br/>
   I'm currently studying back-end skills to become a competent develop performer. <br/>
-  Excited to experience various filed, so I can do ML, app, web, DevOps and ect. <br/>
-  But mainly use Spring Boot now.
-  <br/><br/>
   Love to work with team, love to learn new skills and love to share my experience.
   <br/><br/>
   Always welcome on code review or any opinions 👋👋.   
