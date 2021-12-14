@@ -1,4 +1,5 @@
-<a href="https://blog.naver.com/zhdlqkddnf" target="_blank"><img src="https://img.shields.io/badge/Blog-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/zhdlqkddnf" target="_blank"><img src="https://img.shields.io/badge/My Blog-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%ED%95%98%EA%B2%BD-%EA%B9%80-248236166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 
 <!--
